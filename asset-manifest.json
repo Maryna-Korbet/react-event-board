@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Maryna-Korbet/react-event-board/static/css/main.7086738e.css",
-    "main.js": "/Maryna-Korbet/react-event-board/static/js/main.331ca3c9.js",
+    "main.js": "/Maryna-Korbet/react-event-board/static/js/main.c99823e5.js",
     "index.html": "/Maryna-Korbet/react-event-board/index.html",
     "main.7086738e.css.map": "/Maryna-Korbet/react-event-board/static/css/main.7086738e.css.map",
-    "main.331ca3c9.js.map": "/Maryna-Korbet/react-event-board/static/js/main.331ca3c9.js.map"
+    "main.c99823e5.js.map": "/Maryna-Korbet/react-event-board/static/js/main.c99823e5.js.map"
   },
   "entrypoints": [
     "static/css/main.7086738e.css",
-    "static/js/main.331ca3c9.js"
+    "static/js/main.c99823e5.js"
   ]
 }
